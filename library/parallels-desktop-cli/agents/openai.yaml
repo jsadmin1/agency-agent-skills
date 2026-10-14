@@ -1,0 +1,7 @@
+interface:
+  display_name: "Parallels Desktop CLI"
+  short_description: "Control Parallels VMs from macOS"
+  default_prompt: "Use $parallels-desktop-cli to inspect and manage Parallels Desktop VMs from the local macOS CLI."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,190 @@
+{
+  "schema": 1,
+  "files": [
+    {
+      "path": "library/crawl4ai/SKILL.md",
+      "bytes": 3369,
+      "sha256": "f6e8ebae2854b213029ada52f65bc400ddaebe49da1d0ff595373107accd3286"
+    },
+    {
+      "path": "library/creator-voice/SKILL.md",
+      "bytes": 4627,
+      "sha256": "b0f9e804c4f70672435cf14cc166cb920018ea20e993d3709e294aef6121bad6"
+    },
+    {
+      "path": "library/knowledge-base-maintenance/SKILL.md",
+      "bytes": 8106,
+      "sha256": "3a5ccf053fd575afc3a9b057863b917069b3be52580407515ea86c1fe2a3b3a2"
+    },
+    {
+      "path": "library/knowledge-base-maintenance/references/acceptance.md",
+      "bytes": 4024,
+      "sha256": "5f11f50091849d8cb3bf9165b6a31134f43b1bc26788051f7a0868397774889a"
+    },
+    {
+      "path": "library/knowledge-base-maintenance/references/worked-cases.md",
+      "bytes": 4694,
+      "sha256": "7a9054433b0952b9899b1db73dd9e57776e7a48d101af38a860cf93813de6d3b"
+    },
+    {
+      "path": "library/make-no-mistakes/LICENSE",
+      "bytes": 1065,
+      "sha256": "05c5094e7058c9fb684a56f03ec23dda9d94e343b78f424312ac16648c3c809d"
+    },
+    {
+      "path": "library/make-no-mistakes/SKILL.md",
+      "bytes": 9569,
+      "sha256": "1a12518e801c5e3ec0e5ee360ad8b704538b4233339c2f54d81fe2bad3d2ac2f"
+    },
+    {
+      "path": "library/make-no-mistakes/references/domain-patterns.md",
+      "bytes": 3660,
+      "sha256": "da2c43a77b7f845a74f0064e2cc0820ff2b9ea17b6a64ba010ecf1b5279b8014"
+    },
+    {
+      "path": "library/parallels-desktop-cli/SKILL.md",
+      "bytes": 5711,
+      "sha256": "e5d661a4788817c814719493f1058b3ba318742b5ddd1f1b850dc2db878f1e3d"
+    },
+    {
+      "path": "library/parallels-desktop-cli/agents/openai.yaml",
+      "bytes": 267,
+      "sha256": "aec0dbf355bc3a764082f578ca45b552656b2b89561f68c46cd8db7a1b4d562f"
+    },
+    {
+      "path": "library/parallels-desktop-cli/references/cli-reference.md",
+      "bytes": 6110,
+      "sha256": "e129fabe2d1a2df426e291685f2aa7efd10e3bae15de80e6c22db51d3adfb849"
+    },
+    {
+      "path": "library/partner-message-delivery/SKILL.md",
+      "bytes": 7543,
+      "sha256": "5bdfb177280b47d7d2dbb99aa39ccbb95784d9e0758c24e22a6c531f0a1119f9"
+    },
+    {
+      "path": "library/partner-message-delivery/references/imessage-cli.md",
+      "bytes": 6561,
+      "sha256": "a5e4a7fd57b8d959835f402fa5361b3024f12ebe6e768430aabdc2cc09758d6e"
+    },
+    {
+      "path": "library/rehydration-protocol/SKILL.md",
+      "bytes": 6534,
+      "sha256": "77f941018648ad94c8efe777118152f80d296b1d5fc8f29690efdc0849205eb8"
+    },
+    {
+      "path": "library/youtube-media-production/SKILL.md",
+      "bytes": 5616,
+      "sha256": "331f68e22f9ca427bbb914ca14ca3ec3c2d4f7993b5ec7aebd7eaa4c4d9c3bc8"
+    },
+    {
+      "path": "library/youtube-media-production/agents/openai.yaml",
+      "bytes": 265,
+      "sha256": "312ce6667b6c804a7b807a0532b1d5db601627ee1f1609f33c753a645115960d"
+    },
+    {
+      "path": "library/youtube-media-production/assets/delivery-receipt.md",
+      "bytes": 846,
+      "sha256": "9cac214eb62469b2971136c15c3baa448bc612a65f84bd3f95f0c3b3ab177eea"
+    },
+    {
+      "path": "library/youtube-media-production/references/delivery-contract.md",
+      "bytes": 1695,
+      "sha256": "83c61d080e854f6e5cac22a46236f582f4d4d4208ffc3f1d2f6044560cce4b63"
+    },
+    {
+      "path": "library/youtube-media-production/scripts/preflight_youtube_project.py",
+      "bytes": 3624,
+      "sha256": "0db605fb78494304a4c6569c432f2aea15e782c8ce98b791affe8cf849dc5f33"
+    },
+    {
+      "path": "library/youtube-story-development/SKILL.md",
+      "bytes": 5380,
+      "sha256": "feedb1a5e819b4f55f61a189925db076459ceaad4dee9e63bc5b4942faab624f"
+    },
+    {
+      "path": "library/youtube-story-development/agents/openai.yaml",
+      "bytes": 259,
+      "sha256": "8bd44c98317159407f9b254cec75f8586f322d7cc16a42e05b9b227583391eea"
+    },
+    {
+      "path": "library/youtube-story-development/assets/story-gate-report.md",
+      "bytes": 657,
+      "sha256": "aabeb106b9aab81293318733b755efcbfcce35b827969a8b3f24fed346ba48fd"
+    },
+    {
+      "path": "library/youtube-story-development/assets/story-work-order.md",
+      "bytes": 588,
+      "sha256": "88e16898cab448c46cb4aa0f7fb6cc60d93192222e5cf06a903b36ef50d26af8"
+    },
+    {
+      "path": "library/youtube-studio-chrome-operator/SKILL.md",
+      "bytes": 6431,
+      "sha256": "39f1ebaf36397a37ee03f5de3720ecf5257591c9d20c7f18c19341c92fd3b37c"
+    },
+    {
+      "path": "library/youtube-studio-chrome-operator/agents/openai.yaml",
+      "bytes": 289,
+      "sha256": "e33273859791f9694a5822620e54387f3429b9469390ec84c42633300f352a42"
+    },
+    {
+      "path": "library/youtube-studio-chrome-operator/assets/release-preflight.md",
+      "bytes": 679,
+      "sha256": "05554ac1b0e0dd495c9c8864e927eee4fb6721330706635ba19421f97adb3e02"
+    },
+    {
+      "path": "library/youtube-studio-chrome-operator/assets/release-receipt.md",
+      "bytes": 645,
+      "sha256": "3d0b097c8c9b8143b088dfdc987f820697164f766e485f8ffa28a7c28e3194cb"
+    },
+    {
+      "path": "library/youtube-studio-chrome-operator/references/studio-workflow.md",
+      "bytes": 3641,
+      "sha256": "6b66ec8db16ce48dbc41b2e2c1ea5c749b271337dc1432283a531c6c274c7ccd"
+    },
+    {
+      "path": "skills/dictation-intent/SKILL.md",
+      "bytes": 6021,
+      "sha256": "dbdcf27b56881d38e850932cbb4bddd58b5e928ea1d2882669276d8b4a8ae4d3"
+    },
+    {
+      "path": "skills/dictation-intent/references/examples.md",
+      "bytes": 3034,
+      "sha256": "9120c90285da3076437126877d4c9a2121acc38cd95db5758a4d11931ae252b0"
+    },
+    {
+      "path": "skills/operator-mode/SKILL.md",
+      "bytes": 4990,
+      "sha256": "8f501255800dd9497897d7565141b04d01b927003c5b2b3f314394dafe6fa380"
+    },
+    {
+      "path": "skills/project-bootstrap/SKILL.md",
+      "bytes": 6781,
+      "sha256": "72b165ef79669d16896142b0df646470fd2036d313d40c8f0023073d43a98202"
+    },
+    {
+      "path": "skills/project-bootstrap/references/handoff-checks.md",
+      "bytes": 1929,
+      "sha256": "9093acc9d0725c9517468c0a83662fda1e283f0bafd622550a233a6fb02f77bf"
+    },
+    {
+      "path": "skills/project-bootstrap/references/v5-baseline.md",
+      "bytes": 2473,
+      "sha256": "b0c6c0ff7ad46c5f32ec4fb94670232dc6d057901293934af35b943ccecbc149"
+    },
+    {
+      "path": "skills/project-bootstrap/scripts/bootstrap.py",
+      "bytes": 6317,
+      "sha256": "91840fdff6a3b60681322b1463a583807c0d2f99316c338997aba3f712d764d1"
+    },
+    {
+      "path": "skills/tts-friendly-mode/SKILL.md",
+      "bytes": 5010,
+      "sha256": "2c0aa7231d9c084fc264e3def24225b04f660605c3f1ef024b9c62f01a204075"
+    },
+    {
+      "path": "skills/tts-friendly-mode/references/examples.md",
+      "bytes": 3117,
+      "sha256": "c45c09281d75d3c3967488beaacea6ced8b772f536fb72c3057c229eb8af0cff"
+    }
+  ]
+}

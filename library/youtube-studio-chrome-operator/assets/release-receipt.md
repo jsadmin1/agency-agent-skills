@@ -1,0 +1,24 @@
+# YouTube mutation receipt
+
+- Work-order/release record:
+- Channel name / handle / immutable ID:
+- Video ID:
+- Studio URL:
+- Public URL:
+- Local asset path / SHA-256:
+- Metadata path / SHA-256:
+- Before-state / observed at:
+- Authorized mutations performed:
+- Save/upload/schedule/publish invoked at:
+- Final visibility:
+- Scheduled timestamp / zone / offset:
+- Audience setting:
+- Altered or synthetic setting:
+- Thumbnail state:
+- Captions state:
+- Processing/checks/restrictions:
+- Related long-form video ID and re-open verification:
+- Public-page verification:
+- Ambiguities or warnings:
+- Tracker paths updated:
+- Release record consumed:

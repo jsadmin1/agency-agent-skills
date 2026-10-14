@@ -1,0 +1,4 @@
+interface:
+  display_name: "YouTube Story Development"
+  short_description: "Develop source-safe scripts and story packages"
+  default_prompt: "Use $youtube-story-development to develop and gate a YouTube episode script package from the assigned work order."

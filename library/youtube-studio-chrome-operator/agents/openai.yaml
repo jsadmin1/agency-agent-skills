@@ -1,0 +1,4 @@
+interface:
+  display_name: "YouTube Studio Chrome Operator"
+  short_description: "Publish and verify YouTube releases in Chrome"
+  default_prompt: "Use $youtube-studio-chrome-operator to prepare or execute this authorized YouTube Studio release through Chrome with verification receipts."
