@@ -9,6 +9,7 @@ a `SKILL.md` entrypoint and any focused references or scripts it needs.
 | Skill | Job |
 | --- | --- |
 | [dictation-intent](skills/dictation-intent/SKILL.md) | Interpret live dictation, scoped corrections and interruptions without guessing consequential details. |
+| [brain-dump-preservation](library/brain-dump-preservation/SKILL.md) | Preserve authorized evolving prompts with source provenance, chunk coverage and a reviewable readback. |
 | [tts-friendly-mode](skills/tts-friendly-mode/SKILL.md) | Make replies listenable while retaining facts and exact commands. |
 | [operator-mode](skills/operator-mode/SKILL.md) | Take point on the current task without silently widening authority. |
 | [make-no-mistakes](library/make-no-mistakes/SKILL.md) | Improve underspecified requests with proportionate questions and verification. |

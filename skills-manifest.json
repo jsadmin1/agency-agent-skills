@@ -2,6 +2,21 @@
   "schema": 1,
   "files": [
     {
+      "path": "library/brain-dump-preservation/SKILL.md",
+      "bytes": 8836,
+      "sha256": "96acca7177ea0f833cff0ace9571e24ee895af5be143d1811396514a1092105d"
+    },
+    {
+      "path": "library/brain-dump-preservation/references/ledger-format.md",
+      "bytes": 3312,
+      "sha256": "cf924245bae806367da5d51ba6a64d2cf7c26e4d7066ef963e1d155b4a2a80a1"
+    },
+    {
+      "path": "library/brain-dump-preservation/scripts/bdp.py",
+      "bytes": 20451,
+      "sha256": "8b01afa682b8d030737c9ece4542b4d279e2c6597e1a592235c588985d214ef5"
+    },
+    {
       "path": "library/crawl4ai/SKILL.md",
       "bytes": 3369,
       "sha256": "f6e8ebae2854b213029ada52f65bc400ddaebe49da1d0ff595373107accd3286"

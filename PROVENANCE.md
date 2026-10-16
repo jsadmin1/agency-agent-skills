@@ -35,6 +35,25 @@ All entries use the common Agent Skills folder format. Optional Codex metadata
 does not prove other harnesses load the skill. Static validation, review and
 synthetic examples reduce known defects; they do not guarantee perfect behavior.
 
+## Brain-dump preservation — October 16, 2026
+
+The generic brain-dump-preservation skill and its standard-library helper are
+original MIT-licensed material. The private Agent OS companion and real user
+transcripts are not included. One independent review found raw-data sensitivity,
+destination-containment, conflicting-record-ID and chunk-progress defects. One
+bounded repair and independent exact-fix verification accepted the repaired
+bundle. The maintainer exports those exact three generic files.
+
+Verification used synthetic inputs, including metadata/non-text secret-pattern
+cases, path containment, duplicate/conflicting records, corrupt input, Unicode,
+raw-byte reconstruction and malformed chunk sizes. It did not measure model
+compliance, automatic skill selection or compatibility with every native log
+format. Secret detection is heuristic, including known false negatives for some
+JSON password fields; retained originals default to owner-only permissions.
+Concurrent hostile ancestor-directory changes are outside the tested boundary.
+The verifier checks structure and source spans, not semantic completeness or
+authentic approval. Use manual sensitivity review and normal one-writer rules.
+
 After the bounded independent review, the maintainer completed the remaining
 source/template reads and made two scoped corrections: the Crawl4AI example
 passes its token header through stdin rather than process arguments, and the
